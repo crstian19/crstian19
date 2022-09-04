@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 
 
 Reach me: 
+
+[![https://gitlab.com/Crstian](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Crstian)
