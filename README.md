@@ -5,7 +5,8 @@
 - 🔭 I’m currently working as CTO & Devops in a small startup in Murcia, Spain 🇪🇸
 - 🌱 I’m currently learning FastAPI,Kubernetes & GitOps
 
-#### Technologies & Tools
+<details>
+<summary>Technologies & Tools </summary>
 
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Traefik_Proxy-24A1C1?style=for-the-badge&logo=Traefik%20Proxy&logoColor=white)
@@ -21,8 +22,11 @@
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+</details>
 
-#### Languages and technologies that I would like to learn:
+<details>
+
+<summary>Languages and technologies that I would like to learn:</summary>
 
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
@@ -34,6 +38,7 @@
 ![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/GitLab%20CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
+</details>
 <details>
   <summary>🖥️ My workspaces</summary>
 
