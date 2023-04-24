@@ -2,17 +2,17 @@
 
 ![](https://media2.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e476ptp3hv2w3xzo3pbiupfyinr0o0u1jmzjhshvq89&rid=giphy.gif&ct=g)
 
-- 🔭 I’m currently working as CTO & Devops in a small startup in Murcia, Spain 🇪🇸
-- 🌱 I’m currently learning FastAPI,Kubernetes & GitOps
+- 🔭 I’m currently working as Devops/SRE on Optare Solutions, Spain 🇪🇸
+- 🌱 I’m currently learning SecOps,Kubernetes & GitOps
 
 <details>
 <summary>Technologies & Tools </summary>
-
+  
+![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Traefik_Proxy-24A1C1?style=for-the-badge&logo=Traefik%20Proxy&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -21,6 +21,8 @@
 ![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 </details>
 
@@ -28,11 +30,9 @@
 
 <summary>Languages and technologies that I would like to learn:</summary>
 
-![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -46,7 +46,7 @@
 #### Desktop:
 
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![](https://img.shields.io/badge/AMD%20Ryzen_5_2600-ED1C24?style=for-the-badge&logo=AMD&logoColor=white)
+![](https://img.shields.io/badge/AMD%20Ryzen_5_5700X-ED1C24?style=for-the-badge&logo=AMD&logoColor=white)
 ![](https://img.shields.io/badge/AMD%20Radeon_RX_6800-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![](https://img.shields.io/badge/RAM-16GB-0DBD8B?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/YAMAHA%20HS5-4B1E78?style=for-the-badge&logo=Yamaha%20Corporation&logoColor=white)
