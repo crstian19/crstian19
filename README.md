@@ -2,7 +2,7 @@
 
 ![](https://media2.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e476ptp3hv2w3xzo3pbiupfyinr0o0u1jmzjhshvq89&rid=giphy.gif&ct=g)
 
-- 🔭 I’m currently working as Devops/SRE on Optare Solutions, Spain 🇪🇸
+- 🔭 I’m currently working as Devops/SRE, Spain 🇪🇸
 - 🌱 I’m currently learning SecOps,Kubernetes & GitOps
 
 <details>
