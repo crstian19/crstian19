@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as Devops/SRE, Spain 🇪🇸
 - 🌱 I’m currently learning SecOps,Kubernetes & GitOps
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cris-gl&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9f0bb3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=cris-gl&redirect=true)
+
 
 <details>
 <summary>Technologies & Tools </summary>
@@ -65,6 +65,10 @@
 ![](https://img.shields.io/badge/Mi%20Pad_5_-FF6900?style=for-the-badge&logo=Xiaomi&logoColor=white)
 
 </details>
+
+<p align="center"> <img src=https://spotify-github-profile.vercel.app/api/view?uid=cris-gl&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9f0bb3&bar_color_cover=false) </p>
+
+
 
 
 #### Reach me: 
