@@ -50,7 +50,7 @@
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/AMD%20Ryzen_5_5700X-ED1C24?style=for-the-badge&logo=AMD&logoColor=white)
 ![](https://img.shields.io/badge/AMD%20Radeon_RX_6800-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![](https://img.shields.io/badge/RAM-16GB-0DBD8B?style=for-the-badge&logo=&logoColor=white)
+![](https://img.shields.io/badge/RAM-32GB-0DBD8B?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/YAMAHA%20HS5-4B1E78?style=for-the-badge&logo=Yamaha%20Corporation&logoColor=white)
 
 #### Laptop:  
