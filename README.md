@@ -60,9 +60,9 @@
 ![](https://img.shields.io/badge/RAM-16GB-0DBD8B?style=for-the-badge&logo=&logoColor=white)
  
 #### Phone:  
-![](https://img.shields.io/badge/One%20Plus_8T_w/EvoX-F5010C?style=for-the-badge&logo=OnePlus&logoColor=white)  
+![](https://img.shields.io/badge/One%20Plus_8T_w/LineageOS-F5010C?style=for-the-badge&logo=OnePlus&logoColor=white)  
 #### Tablet:    
-![](https://img.shields.io/badge/Mi%20Pad_5_-FF6900?style=for-the-badge&logo=Xiaomi&logoColor=white)
+![](https://img.shields.io/badge/Mi%20Pad_5_w/ArrowOS-FF6900?style=for-the-badge&logo=Xiaomi&logoColor=white)
 
 </details>
 
