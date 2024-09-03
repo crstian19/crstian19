@@ -23,6 +23,8 @@
 ![](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
 ![](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
 
 
 </details>
@@ -36,7 +38,7 @@
 ![](https://img.shields.io/badge/astro-f026e9.svg?&style=for-the-badge&logo=astro&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![](https://img.shields.io/badge/GitLab%20CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </details>
 <details>
@@ -56,15 +58,27 @@
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/AMD%20Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=AMD&logoColor=white)
 ![](https://img.shields.io/badge/RAM-16GB-0DBD8B?style=for-the-badge&logo=&logoColor=white)
+
+#### Server
+
+##### Mew
+![](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![](https://img.shields.io/badge/AMD%20Ryzen_5_2600-ED1C24?style=for-the-badge&logo=AMD&logoColor=white)
+![](https://img.shields.io/badge/RAM-32GB-0DBD8B?style=for-the-badge&logo=&logoColor=white)
+
+##### Mewtwo
+![](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![](https://img.shields.io/badge/AMD%20Ryzen_5_5500U-ED1C24?style=for-the-badge&logo=AMD&logoColor=white)
+![](https://img.shields.io/badge/RAM-16GB-0DBD8B?style=for-the-badge&logo=&logoColor=white)
+
+
  
 #### Phone:  
-![](https://img.shields.io/badge/One%20Plus_8T_w/LineageOS-F5010C?style=for-the-badge&logo=OnePlus&logoColor=white)  
+![Google Pixel](https://img.shields.io/badge/Pixel_9_Pro_XL-56347C?style=for-the-badge&logo=google&logoColor=white)
 #### Tablet:    
-![](https://img.shields.io/badge/Mi%20Pad_5_w/ArrowOS-FF6900?style=for-the-badge&logo=Xiaomi&logoColor=white)
+![](https://img.shields.io/badge/Mi%20Pad_5_w/LineageOS-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 
 </details>
-
-<p align="center"> <img src=https://spotify-github-profile.vercel.app/api/view?uid=cris-gl&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9f0bb3&bar_color_cover=false) </p>
 
 
 
