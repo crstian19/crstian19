@@ -1,6 +1,5 @@
 ### Hi there I'm Cristian 👋
 
-![](https://media2.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e476ptp3hv2w3xzo3pbiupfyinr0o0u1jmzjhshvq89&rid=giphy.gif&ct=g)
 ![](https://randomon.fosc.cloud)
 
 - 🔭 I’m currently working as Devops/SRE, Spain 🇪🇸
@@ -26,10 +25,7 @@
 ![](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-
-
 </details>
-https://randomon.crstian.me/chibimon_happy.webp
 <details>
 
 <summary>Languages and technologies that I would like to learn:</summary>
