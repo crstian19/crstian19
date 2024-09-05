@@ -1,6 +1,7 @@
 ### Hi there I'm Cristian 👋
 
 ![](https://media2.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e476ptp3hv2w3xzo3pbiupfyinr0o0u1jmzjhshvq89&rid=giphy.gif&ct=g)
+![](https://randomon.fosc.cloud)
 
 - 🔭 I’m currently working as Devops/SRE, Spain 🇪🇸
 - 🌱 I’m currently learning SecOps, Astro & GitOps
@@ -28,7 +29,7 @@
 
 
 </details>
-
+https://randomon.crstian.me/chibimon_happy.webp
 <details>
 
 <summary>Languages and technologies that I would like to learn:</summary>
