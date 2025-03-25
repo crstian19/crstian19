@@ -60,7 +60,7 @@
 
 ##### Mew
 ![](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![](https://img.shields.io/badge/AMD%20Ryzen_5_2600-ED1C24?style=for-the-badge&logo=AMD&logoColor=white)
+![](https://img.shields.io/badge/AMD%20Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=AMD&logoColor=white)
 ![](https://img.shields.io/badge/RAM-32GB-0DBD8B?style=for-the-badge&logo=&logoColor=white)
 
 ##### Mewtwo
