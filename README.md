@@ -56,7 +56,7 @@
 ![](https://img.shields.io/badge/AMD%20Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=AMD&logoColor=white)
 ![](https://img.shields.io/badge/RAM-16GB-0DBD8B?style=for-the-badge&logo=&logoColor=white)
 
-#### Server
+#### Server:
 
 ##### Mew
 ![](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
@@ -68,7 +68,9 @@
 ![](https://img.shields.io/badge/AMD%20Ryzen_5_5500U-ED1C24?style=for-the-badge&logo=AMD&logoColor=white)
 ![](https://img.shields.io/badge/RAM-16GB-0DBD8B?style=for-the-badge&logo=&logoColor=white)
 
+#### Car:
 
+![](https://img.shields.io/badge/Tesla%20Model%203%20Highland%20RWD-EE2624?style=for-the-badge&logo=Tesla&logoColor=white)  
  
 #### Phone:  
 ![Google Pixel](https://img.shields.io/badge/Pixel_9_Pro_XL-56347C?style=for-the-badge&logo=google&logoColor=white)
