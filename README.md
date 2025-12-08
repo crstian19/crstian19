@@ -1,6 +1,6 @@
 ### Hi there I'm Cristian 👋
 
-![](https://randomon.fosc.cloud/?)
+![](https://randomon.crstian.me/?)
 
 - 🔭 I’m currently working as Devops/SRE, Spain 🇪🇸
 - 🌱 I’m currently learning SecOps, Astro & GitOps
