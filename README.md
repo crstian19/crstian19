@@ -3,8 +3,6 @@
 ![](https://randomon.crstian.me/?)
 
 - 🔭 I’m currently working as Devops/SRE, Spain 🇪🇸
-- 🌱 I’m currently learning SecOps, Astro & GitOps
-
 
 ![](https://github-readme-stats.vercel.app/api?username=Crstian19&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Crstian19&theme=dark&hide_border=false)<br/>
