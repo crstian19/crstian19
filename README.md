@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning SecOps, Astro & GitOps
 
 
+![](https://github-readme-stats.vercel.app/api?username=Crstian19&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Crstian19&theme=dark&hide_border=false)<br/>
+
 
 <details>
 <summary>Technologies & Tools </summary>
@@ -24,17 +27,16 @@
 ![](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/astro-f026e9.svg?&style=for-the-badge&logo=astro&logoColor=white)
+
 
 </details>
 <details>
 
-<summary>Languages and technologies that I would like to learn:</summary>
-
-![](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+<summary>Technologies I use and keep getting better at:</summary>
 ![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![](https://img.shields.io/badge/astro-f026e9.svg?&style=for-the-badge&logo=astro&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </details>
