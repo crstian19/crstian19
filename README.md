@@ -2,13 +2,8 @@
 
 ![](https://randomon.crstian.me/?)
 
-
-
-![](https://github-readme-stats.vercel.app/api?username=Crstian19&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Crstian19&theme=dark&hide_border=false)<br/>
-
-
 - 🔭 I’m currently working as Devops/SRE, Spain 🇪🇸
+
 <details>
 <summary>Technologies & Tools </summary>
   
@@ -80,6 +75,13 @@
 
 </details>
 
+<details>
+<summary>Github Stats </summary>
+
+![](https://github-readme-stats.vercel.app/api?username=Crstian19&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Crstian19&theme=dark&hide_border=false)<br/>
+
+</details>
 
 
 
