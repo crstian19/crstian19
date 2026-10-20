@@ -79,8 +79,8 @@
 <details>
 <summary>Github Stats </summary>
 
-![](https://github-readme-stats.vercel.app/api?username=Crstian19&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Crstian19&theme=dark&hide_border=false)<br/>
+![](https://github-stats-extended.vercel.app/api?username=Crstian19&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://streak-stats.demolab.com/?user=Crstian19&theme=dark&hide_border=false)<br/>
 
 </details>
 
